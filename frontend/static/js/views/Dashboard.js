@@ -8,12 +8,16 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-            <h1>Welcome back, Dave! </h1>
+            <h1>davidlaning.com</h1>
             <p>
-                Fugiat voluptate et nisi Lorem cillum anim sit do eiusmod occaecat irure do. Reprehenderit anim fugiat sint exercitation consequat. Sit anim laborum sit amet Lorem adipisicing ullamco duis. Anim in do magna ea pariatur et.
+              This website is under development.  Please enjoy reading the Marshall High School Gavels while this site is being developed.<br>
+              Best regards<br>
+              Dave Laning<br>
+              <a href="https://www.linkedin.com/in/davidblaning-scd-pe-mba/" target="_blank">LinkedIn Profile</a>
+              
             </p>
             <p>
-                <a href="/posts" data-link>View recent posts</a>.
+                <a href="/posts" data-link>View Marshall Gavels</a>.
             </p>
         `;
     }
