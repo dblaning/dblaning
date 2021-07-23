@@ -8,7 +8,7 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-            <h1>davidlaning.com</h1>
+            <h1>DavidLaning.com - Home</h1>
             <p>
               This website is under development.  Please enjoy reading the Marshall High School Gavels while this site is being developed.<br>
               Best regards<br>
