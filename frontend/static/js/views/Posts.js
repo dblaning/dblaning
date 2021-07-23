@@ -14,6 +14,8 @@ export default class extends AbstractView {
             <p><a href="../clickerpage42.pdf" target="_blank">Gavel-date?-ONE_up</a></p>
             <p><a href="../../clickerpage42.pdf" target="_blank">Gavel-date?-TWO_up</a></p>
             <p><a href="../../../clickerpage42.pdf" target="_blank">Gavel-date?-THREE_up</a></p>
+            <p><a href="/static/clickerpage42.pdf" target="_blank">Gavel-date?-static-one</a></p>
+                  
                   
         `;
     }
