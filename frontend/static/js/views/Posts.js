@@ -8,7 +8,8 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-            <h1>Marshall High School Gavels</h1>
+            <h1>DavidLaning.com - Gavels</h1>
+            <h2>Marshall High School Gavels</h2>
             <p>The only known copies of Marshall Gavels from the 60s and early 70s!</p>
             <p><a href="/static/clickerpage31.pdf" target="_blank">Gavel-31</a></p>
 
