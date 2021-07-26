@@ -12,7 +12,7 @@ export default class extends AbstractView {
             <h2>Marshall High School Gavels</h2>
             <p>The only known copies of Marshall Gavels from the 60s and early 70s!</p>
             <p><a href="/static/1971ChampionshipRoutine.gif" target="_blank">1971ChampionshipRoutine</a></p
-            <p><a href="/static/clickerpage31.pdf" target="_blank">Gavel-31-Sep22_1966</a></p>
+            <p><a href="/static/clickerpage31.pdf" target="_blank">Gavel-31-Sep22_1967</a></p>
 
             <p><a href="/static/clickerpage33.pdf" target="_blank">Gavel-33-Oct14_1966</a></p>
             <p><a href="/static/clickerpage34.pdf" target="_blank">Gavel-34</a></p>
