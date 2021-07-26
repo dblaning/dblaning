@@ -9,7 +9,7 @@ export default class extends AbstractView {
     async getHtml() {
         return `
             <h1>DavidLaning.com - Gavels</h1>
-            <h2>Marshall High School Gavels</h2>
+            <h2>Marshall High School Gavels (And Some Other Stuff!)</h2>
             <p>The only known copies of Marshall Gavels from the 60s and early 70s!</p>
             <p><b>Top #5 songs in the USA</b></p>
             <p>The Osmonds - One Bad Apple</p>
