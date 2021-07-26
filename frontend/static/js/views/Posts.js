@@ -12,9 +12,9 @@ export default class extends AbstractView {
             <h2>Marshall High School Gavels</h2>
             <p>The only known copies of Marshall Gavels from the 60s and early 70s!</p>
             <p><a href="/static/1971ChampionshipRoutine.gif" target="_blank">1971ChampionshipRoutine</a></p
-            <p><a href="/static/clickerpage31.pdf" target="_blank">Gavel-31</a></p>
+            <p><a href="/static/clickerpage31.pdf" target="_blank">Gavel-31-Sep22_1966</a></p>
 
-            <p><a href="/static/clickerpage33.pdf" target="_blank">Gavel-33</a></p>
+            <p><a href="/static/clickerpage33.pdf" target="_blank">Gavel-33-Oct14_1966</a></p>
             <p><a href="/static/clickerpage34.pdf" target="_blank">Gavel-34</a></p>
 
             <p><a href="/static/clickerpage36.pdf" target="_blank">Gavel-36</a></p>
@@ -32,8 +32,8 @@ export default class extends AbstractView {
             <p><a href="/static/clickerpage48.pdf" target="_blank">Gavel-48</a></p>
             <p><a href="/static/clickerpage49.pdf" target="_blank">Gavel-49</a></p>
             <p><a href="/static/clickerpage50.pdf" target="_blank">Gavel-50</a></p>
-            <p><a href="/static/clickerpage51.pdf" target="_blank">Gavel-51</a></p>
-            <p><a href="/static/clickerpage52.pdf" target="_blank">Gavel-52</a></p>
+            <p><a href="/static/clickerpage51.pdf" target="_blank">Gavel-51-Mar21_1969</a></p>
+            <p><a href="/static/clickerpage52.pdf" target="_blank">Gavel-52-Apr25_1969</a></p>
             <p><a href="/static/clickerpage53.pdf" target="_blank">Gavel-53</a></p>
             <p><a href="/static/clickerpage54.pdf" target="_blank">Gavel-54</a></p>
 
@@ -46,10 +46,10 @@ export default class extends AbstractView {
             <p><a href="/static/clickerpage67.pdf" target="_blank">Gavel-67</a></p>
             <p><a href="/static/clickerpage68.pdf" target="_blank">Gavel-68</a></p>
             <p><a href="/static/clickerpage69.pdf" target="_blank">Gavel-69</a></p>
-            <p><a href="/static/clickerpage70.pdf" target="_blank">Gavel-70</a></p>
-            <p><a href="/static/clickerpage71.pdf" target="_blank">Gavel-71</a></p>
-            <p><a href="/static/clickerpage72.pdf" target="_blank">Gavel-72</a></p>
-            <p><a href="/static/clickerpage73.pdf" target="_blank">Gavel-73</a></p>
+            <p><a href="/static/clickerpage70.pdf" target="_blank">Gavel-70-Mar20_1970</a></p>
+            <p><a href="/static/clickerpage71.pdf" target="_blank">Gavel-71-Apr19_1970</a></p>
+            <p><a href="/static/clickerpage72.pdf" target="_blank">Gavel-72-May01_1970</a></p>
+            <p><a href="/static/clickerpage73.pdf" target="_blank">Gavel-73-May15_1970</a></p>
             <p><a href="/static/clickerpage74.pdf" target="_blank">Gavel-74</a></p>
 
             <p><a href="/static/clickerpage81.pdf" target="_blank">Gavel-81</a></p>
@@ -61,10 +61,10 @@ export default class extends AbstractView {
             <p><a href="/static/clickerpage87.pdf" target="_blank">Gavel-87</a></p>
             <p><a href="/static/clickerpage88.pdf" target="_blank">Gavel-88</a></p>
             <p><a href="/static/clickerpage89.pdf" target="_blank">Gavel-89</a></p>
-            <p><a href="/static/clickerpage90.pdf" target="_blank">Gavel-90</a></p>
+            <p><a href="/static/clickerpage90.pdf" target="_blank">Gavel-90-Mar19_1971</a></p>
             <p><a href="/static/clickerpage91.pdf" target="_blank">Gavel-91</a></p>
             <p><a href="/static/clickerpage92.pdf" target="_blank">Gavel-92</a></p>
-            <p><a href="/static/clickerpage93.pdf" target="_blank">Gavel-93</a></p>
-            <p><a href="/static/clickerpage94.pdf" target="_blank">Gavel-94</a></p>          `;
+            <p><a href="/static/clickerpage93.pdf" target="_blank">Gavel-93-May14_1971</a></p>
+            <p><a href="/static/clickerpage94.pdf" target="_blank">Gavel-94-May28_1971</a></p>          `;
     }
 }
