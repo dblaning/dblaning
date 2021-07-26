@@ -11,7 +11,29 @@ export default class extends AbstractView {
             <h1>DavidLaning.com - Gavels</h1>
             <h2>Marshall High School Gavels</h2>
             <p>The only known copies of Marshall Gavels from the 60s and early 70s!</p>
-            <p><a href="/static/1971ChampionshipRoutine.gif" target="_blank">1971MilwaukeeCityChampionshipRoutine-Mar06_1971</a></p
+            <p><b>Top #5 songs in the USA</b></p>
+            <p>The Osmonds - One Bad Apple</p>
+            <p>Jackson 5 - Mama's Pearl</p>
+            <p>Janis Joplin - Me And Bobby McGee</p>
+            <p>The Temptations - Just My Imagination (Running Away With Me)</p>
+            <p>Gordon Lightfoot - If You Could Read My Mind</p>
+            <br></br>
+            <p><b>Top #5 songs in the UK</b></p>
+            <p>Mungo Jerry - Baby Jump</p>
+            <p>T Rex - Hot Love</p>
+            <p>Paul McCartney - Another Day</p>
+            <p>Lynn Anderson - Rose Garden</p>
+            <p>George Harrison - My Sweet Lord</p>
+            <br></br>
+            <p><b>Top #5 R&B songs</b></p>
+            <p>The Temptations - Just My Imagination (Running Away With Me)</p>
+            <p>Jackson 5 - Mama's Pearl</p>
+            <p>Wilson Pickett - Don't Let The Green Grass Fool You</p>
+            <p>Johnnie Taylor - Jody's Got Your Girl And Gone</p>
+            <p>Marvin Gaye - What's Going On</p>
+            <br></br>
+            <p><a href="/static/1971ChampionshipRoutine.gif" target="_blank">1971MilwaukeeCityChampionshipRoutine-Mar06_1971</a></p>
+            <br></br>
             <p><a href="/static/clickerpage31.pdf" target="_blank">Gavel-31-Sep22_1967</a></p>
 
             <p><a href="/static/clickerpage33.pdf" target="_blank">Gavel-33-Oct14_1966</a></p>
