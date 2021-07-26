@@ -11,21 +11,21 @@ export default class extends AbstractView {
             <h1>DavidLaning.com - Gavels</h1>
             <h2>Marshall High School Gavels (And Some Other Stuff!)</h2>
             <p>The only known copies of Marshall Gavels from the 60s and early 70s!</p>
-            <p><b>Top #5 songs in the USA</b></p>
+            <p><b>Top #5 songs in the USA (March 1971)</b></p>
             <p>The Osmonds - One Bad Apple</p>
             <p>Jackson 5 - Mama's Pearl</p>
             <p>Janis Joplin - Me And Bobby McGee</p>
             <p>The Temptations - Just My Imagination (Running Away With Me)</p>
             <p>Gordon Lightfoot - If You Could Read My Mind</p>
             <br></br>
-            <p><b>Top #5 songs in the UK</b></p>
+            <p><b>Top #5 songs in the UK (March 1971)</b></p>
             <p>Mungo Jerry - Baby Jump</p>
             <p>T Rex - Hot Love</p>
             <p>Paul McCartney - Another Day</p>
             <p>Lynn Anderson - Rose Garden</p>
             <p>George Harrison - My Sweet Lord</p>
             <br></br>
-            <p><b>Top #5 R&B songs</b></p>
+            <p><b>Top #5 R&B songs (March 1971)</b></p>
             <p>The Temptations - Just My Imagination (Running Away With Me)</p>
             <p>Jackson 5 - Mama's Pearl</p>
             <p>Wilson Pickett - Don't Let The Green Grass Fool You</p>
