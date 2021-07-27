@@ -37,7 +37,7 @@ export default class extends AbstractView {
             <p><a href="/static/clickerpage31.pdf" target="_blank">Gavel-31-Sep22_1967</a></p>
 
             <p><a href="/static/clickerpage33.pdf" target="_blank">Gavel-33-Oct14_1966</a></p>
-            <p><a href="/static/clickerpage34.pdf" target="_blank">Gavel-34-DateToBeEntered</a></p>
+            <p><a href="/static/clickerpage34.pdf" target="_blank">Gavel-34-Oct28_1966</a></p>
 
             <p><a href="/static/clickerpage36.pdf" target="_blank">Gavel-35-DateToBeEntered</a></p>
             <p><a href="/static/clickerpage36.pdf" target="_blank">Gavel-36-DateToBeEntered</a></p>
