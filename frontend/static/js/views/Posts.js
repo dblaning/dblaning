@@ -39,11 +39,10 @@ export default class extends AbstractView {
             <p><a href="/static/clickerpage33.pdf" target="_blank">Gavel-33-Oct14_1966</a></p>
             <p><a href="/static/clickerpage34.pdf" target="_blank">Gavel-34-Oct28_1966</a></p>
 
-            <p><a href="/static/clickerpage36.pdf" target="_blank">Gavel-35-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage36.pdf" target="_blank">Gavel-36-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage37.pdf" target="_blank">Gavel-37-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage38.pdf" target="_blank">Gavel-38-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage39.pdf" target="_blank">Gavel-39-DateToBeEntered</a></p>
+            <p><a href="/static/clickerpage36.pdf" target="_blank">Gavel-36-Dec16_1966</a></p>
+            <p><a href="/static/clickerpage37.pdf" target="_blank">Gavel-37-Mar10_1967</a></p>
+            <p><a href="/static/clickerpage38.pdf" target="_blank">Gavel-38-Apr14_1967</a></p>
+            <p><a href="/static/clickerpage39.pdf" target="_blank">Gavel-39-Apr28_1967</a></p>
             <p><a href="/static/clickerpage40.pdf" target="_blank">Gavel-40-DateToBeEntered</a></p>
             <p><a href="/static/clickerpage41.pdf" target="_blank">Gavel-41-DateToBeEntered</a></p>
             <p><a href="/static/clickerpage42.pdf" target="_blank">Gavel-42-DateToBeEntered</a></p>
