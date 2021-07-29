@@ -50,8 +50,8 @@ export default class extends AbstractView {
             <p><a href="/static/clickerpage44.pdf" target="_blank">Gavel-44-Nov01_1968</a></p>
             <p><a href="/static/clickerpage45.pdf" target="_blank">Gavel-45-Nov15_1968</a></p>
             <p><a href="/static/clickerpage46.pdf" target="_blank">Gavel-46-Dec06_1968</a></p>
-            <p><a href="/static/clickerpage47.pdf" target="_blank">Gavel-47-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage48.pdf" target="_blank">Gavel-48-DateToBeEntered</a></p>
+            <p><a href="/static/clickerpage47.pdf" target="_blank">Gavel-47-Dec20_1968</a></p>
+            <p><a href="/static/clickerpage48.pdf" target="_blank">Gavel-48-Jan17_1969</a></p>
             <p><a href="/static/clickerpage49.pdf" target="_blank">Gavel-49-DateToBeEntered</a></p>
             <p><a href="/static/clickerpage50.pdf" target="_blank">Gavel-50-DateToBeEntered</a></p>
             <p><a href="/static/clickerpage51.pdf" target="_blank">Gavel-51-Mar21_1969</a></p>
@@ -69,17 +69,17 @@ export default class extends AbstractView {
             <p><a href="/static/clickerpage68.pdf" target="_blank">Gavel-68-DateToBeEntered</a></p>
             <p><a href="/static/clickerpage69.pdf" target="_blank">Gavel-69-DateToBeEntered</a></p>
             <p><a href="/static/clickerpage70.pdf" target="_blank">Gavel-70-Mar20_1970</a></p>
-            <p><a href="/static/clickerpage71.pdf" target="_blank">Gavel-71-Apr19_1970</a></p>
+            <p><a href="/static/clickerpage71.pdf" target="_blank">Gavel-71-Apr17_1970</a></p>
             <p><a href="/static/clickerpage72.pdf" target="_blank">Gavel-72-May01_1970</a></p>
             <p><a href="/static/clickerpage73.pdf" target="_blank">Gavel-73-May15_1970</a></p>
-            <p><a href="/static/clickerpage74.pdf" target="_blank">Gavel-74-DateToBeEntered</a></p>
+            <p><a href="/static/clickerpage74.pdf" target="_blank">Gavel-74-Jun05_1970</a></p>
 
-            <p><a href="/static/clickerpage81.pdf" target="_blank">Gavel-81-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage82.pdf" target="_blank">Gavel-82-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage83.pdf" target="_blank">Gavel-83-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage84.pdf" target="_blank">Gavel-84-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage85.pdf" target="_blank">Gavel-85-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage86.pdf" target="_blank">Gavel-86-DateToBeEntered</a></p>
+            <p><a href="/static/clickerpage81.pdf" target="_blank">Gavel-81-Sep25_1970</a></p>
+            <p><a href="/static/clickerpage82.pdf" target="_blank">Gavel-82-Oct02_1970</a></p>
+            <p><a href="/static/clickerpage83.pdf" target="_blank">Gavel-83-Oct23_1970</a></p>
+            <p><a href="/static/clickerpage84.pdf" target="_blank">Gavel-84-Nov13_1970</a></p>
+            <p><a href="/static/clickerpage85.pdf" target="_blank">Gavel-85-Dec04_1970</a></p>
+            <p><a href="/static/clickerpage86.pdf" target="_blank">Gavel-86-Dec18_1970</a></p>
             <p><a href="/static/clickerpage87.pdf" target="_blank">Gavel-87-DateToBeEntered</a></p>
             <p><a href="/static/clickerpage88.pdf" target="_blank">Gavel-88-DateToBeEntered</a></p>
             <p><a href="/static/clickerpage89.pdf" target="_blank">Gavel-89-DateToBeEntered</a></p>
