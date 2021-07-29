@@ -80,12 +80,12 @@ export default class extends AbstractView {
             <p><a href="/static/clickerpage84.pdf" target="_blank">Gavel-84-Nov13_1970</a></p>
             <p><a href="/static/clickerpage85.pdf" target="_blank">Gavel-85-Dec04_1970</a></p>
             <p><a href="/static/clickerpage86.pdf" target="_blank">Gavel-86-Dec18_1970</a></p>
-            <p><a href="/static/clickerpage87.pdf" target="_blank">Gavel-87-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage88.pdf" target="_blank">Gavel-88-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage89.pdf" target="_blank">Gavel-89-DateToBeEntered</a></p>
+            <p><a href="/static/clickerpage87.pdf" target="_blank">Gavel-87-Jan29_1971</a></p>
+            <p><a href="/static/clickerpage88.pdf" target="_blank">Gavel-88-Feb19_1971</a></p>
+            <p><a href="/static/clickerpage89.pdf" target="_blank">Gavel-89-Mar05_1971</a></p>
             <p><a href="/static/clickerpage90.pdf" target="_blank">Gavel-90-Mar19_1971</a></p>
-            <p><a href="/static/clickerpage91.pdf" target="_blank">Gavel-91-DateToBeEntered</a></p>
-            <p><a href="/static/clickerpage92.pdf" target="_blank">Gavel-92-DateToBeEntered</a></p>
+            <p><a href="/static/clickerpage91.pdf" target="_blank">Gavel-91-Apr02_1971</a></p>
+            <p><a href="/static/clickerpage92.pdf" target="_blank">Gavel-92-Apr30_1971</a></p>
             <p><a href="/static/clickerpage93.pdf" target="_blank">Gavel-93-May14_1971</a></p>
             <p><a href="/static/clickerpage94.pdf" target="_blank">Gavel-94-May28_1971</a></p>          `;
     }
