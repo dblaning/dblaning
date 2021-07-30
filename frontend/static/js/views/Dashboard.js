@@ -19,6 +19,9 @@ export default class extends AbstractView {
             <p>
                 <a href="/posts" data-link>View Marshall Gavels</a>.
             </p>
+                        <p>
+                <a href="/posts" data-link>Listen to Marshall's Choir</a>.
+            </p>
         `;
     }
 }
