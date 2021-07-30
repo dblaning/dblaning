@@ -40,6 +40,7 @@ export default class extends AbstractView {
             <p><a href="/static/IMG_2151.jpg" target="_blank">AlbumCover13</a></p>
             <p><a href="/static/IMG_2152.jpg" target="_blank">AlbumCover14</a></p>
             <p><a href="/static/IMG_2153.jpg" target="_blank">AlbumCover15</a></p>
+            <p><a href="/static/IMG_2153.jpg" target="_blank"Thank you for visiting</a></p>
                     `;
     }
 }
