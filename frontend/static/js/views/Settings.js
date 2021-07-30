@@ -26,20 +26,20 @@ export default class extends AbstractView {
             <p><a href="/static/13XV-01%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track13</a></p>
             <p><a href="/static/14XV-01%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track14</a></p>
             <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
+            <p><a href="/static/IMG_2138.jpg" target="_blank">AlbumCover02</a></p>
+            <p><a href="/static/IMG_2139.jpg" target="_blank">AlbumCover03</a></p>
+            <p><a href="/static/IMG_2140.jpg" target="_blank">AlbumCover04</a></p>
+            <p><a href="/static/IMG_2142.jpg" target="_blank">AlbumCover05</a></p>
+            <p><a href="/static/IMG_2143.jpg" target="_blank">AlbumCover06</a></p>
+            <p><a href="/static/IMG_2144.jpg" target="_blank">AlbumCover07</a></p>
+            <p><a href="/static/IMG_2145.jpg" target="_blank">AlbumCover08</a></p>
+            <p><a href="/static/IMG_2146.jpg" target="_blank">AlbumCover09</a></p>
+            <p><a href="/static/IMG_2147.jpg" target="_blank">AlbumCover10</a></p>
+            <p><a href="/static/IMG_2148.jpg" target="_blank">AlbumCover11</a></p>
+            <p><a href="/static/IMG_2149.jpg" target="_blank">AlbumCover12</a></p>
+            <p><a href="/static/IMG_2151.jpg" target="_blank">AlbumCover13</a></p>
+            <p><a href="/static/IMG_2152.jpg" target="_blank">AlbumCover14</a></p>
+            <p><a href="/static/IMG_2153.jpg" target="_blank">AlbumCover15</a></p>
                     `;
     }
 }
