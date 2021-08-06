@@ -13,9 +13,7 @@ export default class extends AbstractView {
               This website is under development.  Please enjoy reading the Marshall High School Gavels while this site is being developed.<br>
               Best regards<br>
               Dave Laning<br>
-              <a href="https://www.linkedin.com/in/davidblaning-scd-pe-mba/" target="_blank">LinkedIn Profile</a><br>
               <a href="/static/2021-08-06_13-19-56-DavidLaningProfileCropped.png" target="_blank">LinkedIn Profile</a><br>
-              2021-08-06_13-19-56-DavidLaningProfileCropped.png
               
             </p>
             <p>
