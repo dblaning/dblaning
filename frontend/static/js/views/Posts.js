@@ -84,7 +84,7 @@ export default class extends AbstractView {
 </tbody>
 </table>
 </td>
-<td class="black_line" style="width: 457px; height: 616px;">
+<td class="black_line" style="width: 457px; height: 666px;">
 <table class="list" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
@@ -99,11 +99,6 @@ export default class extends AbstractView {
 <tr>
 <td style="width: 363px; height: 700px;">
 <p><img src="/static/title1_2.gif" height="19" width="143"><br><br style="line-height: 12px;"><b>DEVELOPMENT</b><br><span style="color: white;">Software development and systems engineering.&nbsp; Programming of Windows, database and web applications. UNIX &amp; Windows </span><a href="index.html"><img src="/static/link.gif" border="0" height="14" width="59"></a><br><br style="line-height: 7px;"><b>TESTING</b> <br><span style="color: white;">Software and Hardware testing of prototype, pre-production &amp; production products. We can perform IV&amp;V to meet your needs</span> <a href="index.html"><img src="/static/link.gif" border="0" height="14" width="59"></a><br><br style="line-height: 14px;"><b>TRAINING</b> <br><span style="color: white;">Product training for clients, customers and partners.&nbsp; Curriculum development and training exercises. Lab developement.</span> <a href="index.html"><img src="/static/link.gif" border="0" height="14" width="59"></a><br><br style="line-height: 14px;"><b>CONSULTING</b> <br><span style="color: white;">Assessment of engineering projects.&nbsp; Project planning, trade studies, system design and system procurement.&nbsp; Small Business Accounting and Bookkeeping. </span><a href="index.html"><img src="/static/link.gif" border="0" height="14" width="59"></a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 363px; height: 700px;">
-helloworld
 </td>
 </tr>
 </tbody>
