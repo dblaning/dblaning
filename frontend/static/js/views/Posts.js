@@ -61,7 +61,7 @@ export default class extends AbstractView {
 <tbody>
 <tr>
 <td class="header" style="width: 309px; height: 0px;">
-<p align="left"><img src="./index_files/David.B.Laning.PhD.MBA.gif"></p>
+<p align="left"><img src="/static/David.B.Laning.PhD.MBA.gif"></p>
 <p align="left"><b>David B Laning, PhD, MBA .... President/CEO</b></p>
 <p align="left"><b>Premier QUIET<span style="color: red;">*</span> Software</b><br>Development, Testing, Training &amp; Consulting<br>Services<br><br><b><span style="color: red;">*</span></b> No Pontification. Just Get the Job Done.<br>Tough Problems are our Specialty!<br><b>WE KNOW CRUNCH MODE</b></p>
 </td>
