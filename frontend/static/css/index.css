@@ -11,7 +11,7 @@ body {
     left: 0;
     width: var(--nav-width);
     height: 100vh;
-    background: #777777;
+    background: #999999;
 }
 
 .nav__link {
