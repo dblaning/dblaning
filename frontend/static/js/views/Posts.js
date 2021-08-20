@@ -8,121 +8,141 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-            <h1>DavidLaning.com - Scrapbook#1</h1>
-            <h2>John Marshall High School Gavels (And Some Other Stuff!)</h2>
-            <p>The only known copies of Marshall Gavels from the 60s and early 70s!</p>
-            <p><b>Top #5 songs in the USA (March 1971)</b></p>
-            <p>The Osmonds - One Bad Apple</p>
-            <p>Jackson 5 - Mama's Pearl</p>
-            <p>Janis Joplin - Me And Bobby McGee</p>
-            <p>The Temptations - Just My Imagination (Running Away With Me)</p>
-            <p>Gordon Lightfoot - If You Could Read My Mind</p>
-            <br></br>
-            <p><b>Top #5 songs in the UK (March 1971)</b></p>
-            <p>Mungo Jerry - Baby Jump</p>
-            <p>T Rex - Hot Love</p>
-            <p>Paul McCartney - Another Day</p>
-            <p>Lynn Anderson - Rose Garden</p>
-            <p>George Harrison - My Sweet Lord</p>
-            <br></br>
-            <p><b>Top #5 R&B songs (March 1971)</b></p>
-            <p>The Temptations - Just My Imagination (Running Away With Me)</p>
-            <p>Jackson 5 - Mama's Pearl</p>
-            <p>Wilson Pickett - Don't Let The Green Grass Fool You</p>
-            <p>Johnnie Taylor - Jody's Got Your Girl And Gone</p>
-            <p>Marvin Gaye - What's Going On</p>
-            <br></br>
-            <p><a href="/static/1971ChampionshipRoutine.gif" target="_blank">1971MilwaukeeCityChampionshipRoutine-Mar06_1971</a></p>
-            <br></br>
-            <p><a href="/static/clickerpage31.pdf" target="_blank">Gavel-31-Sep22_1967</a></p>
 
-            <p><a href="/static/clickerpage33.pdf" target="_blank">Gavel-33-Oct14_1966</a></p>
-            <p><a href="/static/clickerpage34.pdf" target="_blank">Gavel-34-Oct28_1966</a></p>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
-            <p><a href="/static/clickerpage36.pdf" target="_blank">Gavel-36-Dec16_1966</a></p>
-            <p><a href="/static/clickerpage37.pdf" target="_blank">Gavel-37-Mar10_1967</a></p>
-            <p><a href="/static/clickerpage38.pdf" target="_blank">Gavel-38-Apr14_1967</a></p>
-            <p><a href="/static/clickerpage39.pdf" target="_blank">Gavel-39-Apr28_1967</a></p>
-            <p><a href="/static/clickerpage40.pdf" target="_blank">Gavel-40-May12_1967</a></p>
-            <p><a href="/static/clickerpage41.pdf" target="_blank">Gavel-41-Sep20_1968</a></p>
-            <p><a href="/static/clickerpage42.pdf" target="_blank">Gavel-42-Oct04_1968</a></p>
-            <p><a href="/static/clickerpage43.pdf" target="_blank">Gavel-43-Oct18_1968</a></p>
-            <p><a href="/static/clickerpage44.pdf" target="_blank">Gavel-44-Nov01_1968</a></p>
-            <p><a href="/static/clickerpage45.pdf" target="_blank">Gavel-45-Nov15_1968</a></p>
-            <p><a href="/static/clickerpage46.pdf" target="_blank">Gavel-46-Dec06_1968</a></p>
-            <p><a href="/static/clickerpage47.pdf" target="_blank">Gavel-47-Dec20_1968</a></p>
-            <p><a href="/static/clickerpage48.pdf" target="_blank">Gavel-48-Jan17_1969</a></p>
-            <p><a href="/static/clickerpage49.pdf" target="_blank">Gavel-49-Feb21_1969</a></p>
-            <p><a href="/static/clickerpage50.pdf" target="_blank">Gavel-50-Mar07_1969</a></p>
-            <p><a href="/static/clickerpage51.pdf" target="_blank">Gavel-51-Mar21_1969</a></p>
-            <p><a href="/static/clickerpage52.pdf" target="_blank">Gavel-52-Apr25_1969</a></p>
-            <p><a href="/static/clickerpage53.pdf" target="_blank">Gavel-53-May16_1969</a></p>
-            <p><a href="/static/clickerpage54.pdf" target="_blank">Gavel-54-Jun06_1969</a></p>
+<title>StanfordSoft Inc. - Main</title>
 
-            <p><a href="/static/clickerpage61.pdf" target="_blank">Gavel-61-Sep19_1969</a></p>
-            <p><a href="/static/clickerpage62.pdf" target="_blank">Gavel-62-Oct03_1969</a></p>
-            <p><a href="/static/clickerpage63.pdf" target="_blank">Gavel-63-Oct17_1969</a></p>
-            <p><a href="/static/clickerpage64.pdf" target="_blank">Gavel-64-Oct31_1969</a></p>
-            <p><a href="/static/clickerpage65.pdf" target="_blank">Gavel-65-Nov21_1969</a></p>
-            <p><a href="/static/clickerpage66.pdf" target="_blank">Gavel-66-Dec12_1969</a></p>
-            <p><a href="/static/clickerpage67.pdf" target="_blank">Gavel-67-Jan16_1970</a></p>
-            <p><a href="/static/clickerpage68.pdf" target="_blank">Gavel-68-Feb20_1970</a></p>
-            <p><a href="/static/clickerpage69.pdf" target="_blank">Gavel-69-Mar06_1970</a></p>
-            <p><a href="/static/clickerpage70.pdf" target="_blank">Gavel-70-Mar20_1970</a></p>
-            <p><a href="/static/clickerpage71.pdf" target="_blank">Gavel-71-Apr17_1970</a></p>
-            <p><a href="/static/clickerpage72.pdf" target="_blank">Gavel-72-May01_1970</a></p>
-            <p><a href="/static/clickerpage73.pdf" target="_blank">Gavel-73-May15_1970</a></p>
-            <p><a href="/static/clickerpage74.pdf" target="_blank">Gavel-74-Jun05_1970</a></p>
+<meta http-equiv="Content-Style-Type" content="text/css">
 
-            <p><a href="/static/clickerpage81.pdf" target="_blank">Gavel-81-Sep25_1970</a></p>
-            <p><a href="/static/clickerpage82.pdf" target="_blank">Gavel-82-Oct02_1970</a></p>
-            <p><a href="/static/clickerpage83.pdf" target="_blank">Gavel-83-Oct23_1970</a></p>
-            <p><a href="/static/clickerpage84.pdf" target="_blank">Gavel-84-Nov13_1970</a></p>
-            <p><a href="/static/clickerpage85.pdf" target="_blank">Gavel-85-Dec04_1970</a></p>
-            <p><a href="/static/clickerpage86.pdf" target="_blank">Gavel-86-Dec18_1970</a></p>
-            <p><a href="/static/clickerpage87.pdf" target="_blank">Gavel-87-Jan29_1971</a></p>
-            <p><a href="/static/clickerpage88.pdf" target="_blank">Gavel-88-Feb19_1971</a></p>
-            <p><a href="/static/clickerpage89.pdf" target="_blank">Gavel-89-Mar05_1971</a></p>
-            <p><a href="/static/clickerpage90.pdf" target="_blank">Gavel-90-Mar19_1971</a></p>
-            <p><a href="/static/clickerpage91.pdf" target="_blank">Gavel-91-Apr02_1971</a></p>
-            <p><a href="/static/clickerpage92.pdf" target="_blank">Gavel-92-Apr30_1971</a></p>
-            <p><a href="/static/clickerpage93.pdf" target="_blank">Gavel-93-May14_1971</a></p>
-            <p><a href="/static/clickerpage94.pdf" target="_blank">Gavel-94-May28_1971</a></p>
-             <br></br>
-             <h1>DavidLaning.com - Scrapbook#2<h1>
-            <h2>John Marshall High School Choir-Record Album</h2>
-            <p>Album was produced and cut in 1970 or 1969</p>
-            <p><a href="/static/01XV-01%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track01</a></p>
-            <p><a href="/static/01XV-02%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track02</a></p>
-            <p><a href="/static/01XV-03%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track03</a></p>
-            <p><a href="/static/01XV-04%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track04</a></p>
-            <p><a href="/static/01XV-05%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track05</a></p>
-            <p><a href="/static/01XV-06%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track06</a></p>
-            <p><a href="/static/01XV-07%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track07</a></p>
-            <p><a href="/static/01XV-08%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track08</a></p>
-            <p><a href="/static/01XV-09%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track09</a></p>
-            <p><a href="/static/01XV-10%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track10</a></p>
-            <p><a href="/static/01XV-11%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track11</a></p>
-            <p><a href="/static/01XV-12%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track12</a></p>
-            <p><a href="/static/01XV-13%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track13</a></p>
-            <p><a href="/static/01XV-14%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track14</a></p>
-            <p><a href="/static/IMG_2137.jpg" target="_blank">AlbumCover01</a></p>
-            <p><a href="/static/IMG_2138.jpg" target="_blank">AlbumCover02</a></p>
-            <p><a href="/static/IMG_2139.jpg" target="_blank">AlbumCover03</a></p>
-            <p><a href="/static/IMG_2140.jpg" target="_blank">AlbumCover04</a></p>
-            <p><a href="/static/IMG_2142.jpg" target="_blank">AlbumCover05</a></p>
-            <p><a href="/static/IMG_2143.jpg" target="_blank">AlbumCover06</a></p>
-            <p><a href="/static/IMG_2144.jpg" target="_blank">AlbumCover07</a></p>
-            <p><a href="/static/IMG_2145.jpg" target="_blank">AlbumCover08</a></p>
-            <p><a href="/static/IMG_2146.jpg" target="_blank">AlbumCover09</a></p>
-            <p><a href="/static/IMG_2147.jpg" target="_blank">AlbumCover10</a></p>
-            <p><a href="/static/IMG_2148.jpg" target="_blank">AlbumCover11</a></p>
-            <p><a href="/static/IMG_2149.jpg" target="_blank">AlbumCover12</a></p>
-            <p><a href="/static/IMG_2151.jpg" target="_blank">AlbumCover13</a></p>
-            <p><a href="/static/IMG_2152.jpg" target="_blank">AlbumCover14</a></p>
-            <p><a href="/static/IMG_2153.jpg" target="_blank">AlbumCover15</a></p>
-            <p><a href="/static/David.B.Laning.PhD.MBA.gif" target="_blank">Thank you for visiting</a></p>
-            
+
+
+<link href="./index_files/style.css" type="text/css" rel="stylesheet">
+
+
+
+
+
+</head>
+
+<body onload="MM_preloadImages(&#39;images/menu1_1.gif&#39;)">
+<p>&nbsp;</p>
+<table align="center" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 790px; height: 750px;">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 12px; height: 750px;"></td>
+<td style="width: 766px; height: 750px;">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 766px; height: 0px;"></td>
+</tr>
+<tr>
+<td style="width: 766px; height: 616px;">
+<table bgcolor="#730909" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 309px; height: 100%;">
+<table style="height: 100%;" bgcolor="#555555" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="red_bg" style="width: 309px; height: 153px;"><img src="./index_files/c_name.jpg" class="white_bg" style="margin-left: 24px; margin-top: 40px;" align="middle" height="40" width="260"></td>
+</tr>
+<tr><!--
+<td style="width:309px; height:200px " mce_style="width:309px; height:200px " class="man"></td>
+--></tr>
+<tr>
+<td>
+<table class="black_line_bot" style="height: 156px;" cellpadding="0" cellspacing="10" width="309">
+<tbody>
+<tr>
+<td class="header" style="width: 309px; height: 0px;">
+<p align="left"><img src="./index_files/David.B.Laning.PhD.MBA.gif"></p>
+<p align="left"><b>David B Laning, PhD, MBA .... President/CEO</b></p>
+<p align="left"><b>Premier QUIET<span style="color: red;">*</span> Software</b><br>Development, Testing, Training &amp; Consulting<br>Services<br><br><b><span style="color: red;">*</span></b> No Pontification. Just Get the Job Done.<br>Tough Problems are our Specialty!<br><b>WE KNOW CRUNCH MODE</b></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="red_bg" style="width: 309px; height: 100%;">
+<table cellpadding="0" cellspacing="10">
+<tbody>
+<tr>
+<td class="header" style="width: 219px; height: 87px;"><b>professional practice areas</b><br>Software Product Development/MIS 40+ years<br>Product Testing 30+ years<br>Teaching &amp; Training 30+ years<br>Contracting 20+years</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="black_line" style="width: 457px; height: 616px;">
+<table class="list" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 457px; height: 84px;"><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r1&#39;,&#39;&#39;,&#39;images/menu1_1.jpg&#39;,1)"><img src="./index_files/menu1.jpg" alt=" " name="r1" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r2&#39;,&#39;&#39;,&#39;images/menu2_1.jpg&#39;,1)"><img src="./index_files/menu2.jpg" alt=" " name="r2" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r3&#39;,&#39;&#39;,&#39;images/menu3_1.jpg&#39;,1)"><img src="./index_files/menu3.jpg" alt=" " name="r3" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r4&#39;,&#39;&#39;,&#39;images/menu4_1.jpg&#39;,1)"><img src="./index_files/menu4.jpg" alt=" " name="r4" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r5&#39;,&#39;&#39;,&#39;images/menu5_1.jpg&#39;,1)"><img src="./index_files/menu5.jpg" alt=" " name="r5" border="0"></a></td>
+</tr>
+<tr></tr>
+<tr>
+<td class="bg_cont" style="width: 457px; height: 425px;">
+<div class="margin1"><img src="./index_files/title1_1.gif" height="17" width="273"><br><b>STANFORDSOFT FOCUSES ON DEVELOPING PRACTICAL SOLUTIONS FOR YOUR ENGINEERING PROJECTS. <br></b><span style="color: white;">With over 40 years of professional experience in the software and sysems industries StanfordSoft provides the range and depth of experience to solve many of your organization's software engineering and MIS problems.</span><br><br style="line-height: 26px;">
+<table class="grey_tall" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 363px; height: 700px;">
+<p><img src="./index_files/title1_2.gif" height="19" width="143"><br><br style="line-height: 12px;"><b>DEVELOPMENT</b><br><span style="color: white;">Software development and systems engineering.&nbsp; Programming of Windows, database and web applications. UNIX &amp; Windows </span><a href="index.html"><img src="./index_files/link.gif" border="0" height="14" width="59"></a><br><br style="line-height: 7px;"><b>TESTING</b> <br><span style="color: white;">Software and hareware testing of prototype, pre-production &amp; production products. We can perform IV&amp;V to meet your needs</span> <a href="index.html"><img src="./index_files/link.gif" border="0" height="14" width="59"></a><br><br style="line-height: 14px;"><b>TRAINING</b> <br><span style="color: white;">Product training for clients, customers and partners.&nbsp; Curriculum development and training exercises. Lab developement.</span> <a href="index.html"><img src="./index_files/link.gif" border="0" height="14" width="59"></a><br><br style="line-height: 14px;"><b>CONSULTING</b> <br><span style="color: white;">Assessment of engineering projects.&nbsp; Project planning, trade studies, system design and system procurement.&nbsp; Small Business Accounting and Bookkeeping. </span><a href="index.html"><img src="./index_files/link.gif" border="0" height="14" width="59"></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="white_bg" style="width: 457px; height: 107px;"><br style="line-height: 26px;">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width: 32px; height: 51px;"></td>
+<td class="black_txt" style="width: 213px; height: 51px;"><b>CURRENT PROJECT SITE - <br>WASHINGTON STATE</b><br>&nbsp;"Insitu Inc, a Boeing Company"<br>BINGEN, WASHINGTON<br><br></td>
+<td class="black_txt" style="width: 170px; height: 51px;"><b>Email: </b>dblaning@alum.mit.edu <br><b>Phone:</b> 1_530_318_0900</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="footer" style="width: 766px; height: 83px;" height="83">StanfordSoft Inc. © 2002-2021 ..... <b><a href="./scrapbook/index.html">Scrapbook..</a></b>StanfordSoft Inc. is not affiliated with Stanford University</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 12px; height: 750px;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+</body></html>
             
             `;
     }
