@@ -1,5 +1,5 @@
 body {
-    --nav-width: 200px;
+    --nav-width: 150px;
     margin: 0 0 0 var(--nav-width);
     font-family: 'Quicksand', sans-serif;
     font-size: 18px;
