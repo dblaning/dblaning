@@ -50,7 +50,7 @@ export default class extends AbstractView {
 <table style="height: 100%;" bgcolor="#555555" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td class="red_bg" style="width: 309px; height: 138px;"><img src="/static/c_name.jpg" class="white_bg" style="margin-left: 24px; margin-top: 40px;" align="middle" height="40" width="260"></td>
+<td class="red_bg" style="width: 309px; height: 137px;"><img src="/static/c_name.jpg" class="white_bg" style="margin-left: 24px; margin-top: 40px;" align="middle" height="40" width="260"></td>
 </tr>
 <tr><!--
 <td style="width:309px; height:200px " mce_style="width:309px; height:200px " class="man"></td>
