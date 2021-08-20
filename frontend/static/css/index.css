@@ -12,7 +12,7 @@ body {
     left: 0;
     width: var(--nav-width);
     height: 100vh;
-    background: #999999;
+    background: #730909;
 }
 
 .nav__link {
