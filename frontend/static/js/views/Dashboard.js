@@ -22,7 +22,7 @@ export default class extends AbstractView {
                         <p>
                 <a href="/settings" data-link>Listen to Marshall's Choir</a>.
             </p>
-            <p><iframe src="/static/2021-08-06_13-19-56-DavidLaningProfileCropped.png" width="200" height="200"></iframe></p>
+            <p><iframe src="/static/2021-08-06_13-19-56-DavidLaningProfileCropped.png" width="800" height="600"></iframe></p>
         `;
     }
 }
