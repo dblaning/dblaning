@@ -25,7 +25,7 @@ export default class extends AbstractView {
 
 </head>
 
-<body onload="MM_preloadImages(&#39;images/menu1_1.gif&#39;)">
+<body onload="MM_preloadImages(&#39;/static/menu1_1.gif&#39;)">
 <p>&nbsp;</p>
 <table align="center" cellpadding="0" cellspacing="0">
 <tbody>
@@ -88,7 +88,7 @@ export default class extends AbstractView {
 <table class="list" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td style="width: 457px; height: 84px;"><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r1&#39;,&#39;&#39;,&#39;images/menu1_1.jpg&#39;,1)"><img src="./index_files/menu1.jpg" alt=" " name="r1" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r2&#39;,&#39;&#39;,&#39;images/menu2_1.jpg&#39;,1)"><img src="./index_files/menu2.jpg" alt=" " name="r2" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r3&#39;,&#39;&#39;,&#39;images/menu3_1.jpg&#39;,1)"><img src="./index_files/menu3.jpg" alt=" " name="r3" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r4&#39;,&#39;&#39;,&#39;images/menu4_1.jpg&#39;,1)"><img src="./index_files/menu4.jpg" alt=" " name="r4" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r5&#39;,&#39;&#39;,&#39;images/menu5_1.jpg&#39;,1)"><img src="./index_files/menu5.jpg" alt=" " name="r5" border="0"></a></td>
+<td style="width: 457px; height: 84px;"><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r1&#39;,&#39;&#39;,&#39;/static/menu1_1.jpg&#39;,1)"><img src="./index_files/menu1.jpg" alt=" " name="r1" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r2&#39;,&#39;&#39;,&#39;images/menu2_1.jpg&#39;,1)"><img src="./index_files/menu2.jpg" alt=" " name="r2" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r3&#39;,&#39;&#39;,&#39;images/menu3_1.jpg&#39;,1)"><img src="./index_files/menu3.jpg" alt=" " name="r3" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r4&#39;,&#39;&#39;,&#39;images/menu4_1.jpg&#39;,1)"><img src="./index_files/menu4.jpg" alt=" " name="r4" border="0"></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;r5&#39;,&#39;&#39;,&#39;images/menu5_1.jpg&#39;,1)"><img src="./index_files/menu5.jpg" alt=" " name="r5" border="0"></a></td>
 </tr>
 <tr></tr>
 <tr>
@@ -128,7 +128,7 @@ export default class extends AbstractView {
 </td>
 </tr>
 <tr>
-<td class="footer" style="width: 766px; height: 83px;" height="83">StanfordSoft Inc. © 2002-2021 ..... <b><a href="./scrapbook/index.html">Scrapbook..</a></b>StanfordSoft Inc. is not affiliated with Stanford University</td>
+<td class="footer" style="width: 766px; height: 83px;" height="83">StanfordSoft Inc. © 2002-2021 ..... <b><a href="index.html/Settings">Scrapbook..</a></b>StanfordSoft Inc. is not affiliated with Stanford University</td>
 </tr>
 </tbody>
 </table>
