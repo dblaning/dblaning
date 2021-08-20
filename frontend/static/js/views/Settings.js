@@ -8,8 +8,8 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-            <h1>DavidLaning.com<h1>
-            <h2>Marshall High School Choir-Record Album</h2>
+            <h1>DavidLaning.com - Scrapbook#2<h1>
+            <h2>John Marshall High School Choir-Record Album</h2>
             <p>Album was produced and cut in 1970 or 1969</p>
             <p><a href="/static/01XV-01%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track01</a></p>
             <p><a href="/static/01XV-02%20-%20Here%20We%20Come%20A%20Caroling.mp3" target="_blank">Track02</a></p>
