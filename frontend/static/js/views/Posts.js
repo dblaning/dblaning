@@ -84,7 +84,7 @@ export default class extends AbstractView {
 </tbody>
 </table>
 </td>
-<td class="black_line" style="width: 457px; height: 616px; background-color: coral;">
+<td class="black_line" style="width: 457px; height: 616px; background-color: black;">
 <table class="list" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
