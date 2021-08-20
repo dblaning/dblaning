@@ -30,7 +30,7 @@ export default class extends AbstractView {
 <table align="center" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td style="width: 790px; height: 850px;">
+<td style="width: 790px; height: 750px;">
 <table cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
