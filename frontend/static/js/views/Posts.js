@@ -75,7 +75,7 @@ export default class extends AbstractView {
 <table cellpadding="0" cellspacing="10">
 <tbody>
 <tr>
-<td class="header" style="width: 219px; height: 87px;"><b>professional practice areas</b><br>Software Product Development/MIS 40+ years<br>Product Testing 30+ years<br>Teaching &amp; Training 30+ years<br>Contracting 20+years</td>
+<td class="header" style="width: 219px; height: 87px;"><b>professional practice areas</b><br>Software Product Development/MIS 40+yrs<br>Product Testing 30+ years<br>Teaching &amp; Training 30+ years<br>Contracting 20+years</td>
 </tr>
 </tbody>
 </table>
