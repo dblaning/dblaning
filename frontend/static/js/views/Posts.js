@@ -25,7 +25,7 @@ export default class extends AbstractView {
 
 </head>
 
-<body onload="MM_preloadImages(&#39;/static/menu1_1.gif&#39;)" bgcolor="grey">
+<body bgcolor="grey" onload="MM_preloadImages(&#39;/static/menu1_1.gif&#39;)">
 <p>&nbsp;</p>
 <table align="center" cellpadding="0" cellspacing="0">
 <tbody>
